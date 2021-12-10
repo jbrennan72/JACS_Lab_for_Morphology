@@ -42,6 +42,8 @@ Photogrammetry Software Selection https://all3dp.com/1/best-photogrammetry-softw
 
 Hand Held Scanner Selection https://all3dp.com/1/best-3d-scanner-diy-handheld-app-software/
 
+Tech Terms Defined https://whatis.techtarget.com/search/query
+
 
 ### Reach Out to Us!  This is a new repo and we welcome your questions and feedback.  
 
