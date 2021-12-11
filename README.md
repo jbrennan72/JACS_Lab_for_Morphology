@@ -51,7 +51,9 @@ Tech Terms Defined https://whatis.techtarget.com/search/query
 
 GitHub users are encouraged to post questions, or report bugs by using the issues tab of this repo.
 Contact our Contributors directly via email.
+
 Aleac Baines         abaines@gwmail.gwu.edu
+
 Jennifer A. Brennan  jbrennan72@gwmail.gwu.edu
 
 Ian Wilenzik         ivwilenzik@gwmail.gwu.edu
