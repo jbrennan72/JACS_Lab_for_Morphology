@@ -34,7 +34,7 @@ EinScan Pro 2X
 
 
 ### Helpful Links & Resources
-Photogrammerty Tips 
+Photogrammerty Tips: https://peterfalkingham.com/tag/photogrammetry/
 
 Photogrammetry Modeling: COLMAP tutorial https://colmap.github.io/tutorial.html
 
